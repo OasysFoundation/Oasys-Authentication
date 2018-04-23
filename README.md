@@ -1,2 +1,2 @@
-# Oasys-Authentification
+# Oasys-Authentication
 👩‍💻 Login with Blockstack
