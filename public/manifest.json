@@ -1,0 +1,10 @@
+{
+  "name": "OASYS",
+  "start_url": "localhost:5000",
+  "description": "The decentralized platform for technology in education.",
+  "icons": [{
+    "src": "https://joinoasys.org/img/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
